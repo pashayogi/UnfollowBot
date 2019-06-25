@@ -23,7 +23,7 @@ apt-get install curl
 apt install requests
 apt install mechanize
 apt install git
-apt insyall bash
+apt install bash
 git clone https://github.com/pashayogi/UnfollowBot
 cd UnfollowBot
 ./UnfollowBot.sh or bash UnfollowBot.sh
