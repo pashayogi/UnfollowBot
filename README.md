@@ -26,6 +26,6 @@ apt install git
 apt insyall bash
 git clone https://github.com/pashayogi/UnfollowBot
 cd UnfollowBot
-./UnfollowBot or bash UnfollowBot
+./UnfollowBot.sh or bash UnfollowBot.sh
 ```
 
